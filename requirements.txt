@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+chromadb
+sentence-transformers
+google-generativeai
+requests
+pandas
+openpyxl
+mlflow
+pytest
+httpx
